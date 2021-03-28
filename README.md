@@ -17,7 +17,7 @@ And I think it was very teachful for the first steps._
 
 _For a short demonstration please click on the picture below:_
 
-[![Retro-Text-Position Picture](retro-text-positioner.png)](retro-text-positioner.gif)
+[![Retro-Text-Position Picture](retro-text-positioner.png)](http://marco-scheuerer.com/images/retro-text-positioner.gif)
 
 
 To Do:
